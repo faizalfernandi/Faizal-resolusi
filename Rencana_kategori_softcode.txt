@@ -9,5 +9,6 @@
   - Bahasa Pemrogramman
       - Beberapa framework bahasa pemrogramman
   - Hot News
+      - News Umum
 - Tips & Trik
   -Tips Pemrogramman
