@@ -1,4 +1,4 @@
-- Tutorial
+- Tutorial Programming
   - HTML
   - CSS
   - PHP
@@ -7,3 +7,5 @@
   - Teknologi
   - Bahasa Pemrogramman
   - Hot News
+- Tips & Trik
+  -Tips Pemrogramman
