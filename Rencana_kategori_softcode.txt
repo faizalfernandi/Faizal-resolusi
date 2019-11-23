@@ -5,7 +5,9 @@
   - JS
 - News
   - Teknologi
+    - Teknologi terbaru
   - Bahasa Pemrogramman
+    - Framework bahasa pemrogramman
   - Hot News
 - Tips & Trik
   -Tips Pemrogramman
