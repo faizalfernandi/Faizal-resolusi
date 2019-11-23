@@ -1,0 +1,9 @@
+- Tutorial
+  - HTML
+  - CSS
+  - PHP
+  - JS
+- News
+  - Teknologi
+  - Bahasa Pemrogramman
+  - Hot News
