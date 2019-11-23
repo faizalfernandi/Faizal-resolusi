@@ -6,4 +6,5 @@ Faizal resolusi
  
  - Membuat Project Web pribadi
   - Malem minggu / minggu
-  - Tentang artikel tutorial
+  - Tentang artikel
+  - Artikel tentang tutorial
